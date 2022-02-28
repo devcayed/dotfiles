@@ -1,0 +1,2 @@
+alias ll="colorls -lA --sd --gs --group-directories-first"
+alias ls="colorls --sd --group-directories-first"
