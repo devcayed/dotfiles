@@ -1,2 +1,4 @@
 alias ll="colorls -lA --sd --gs --group-directories-first"
 alias ls="colorls --sd --group-directories-first"
+
+alias uxplay="uxplay -nh -n nico@desktop -fps 60"
