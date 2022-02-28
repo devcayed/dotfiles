@@ -3,7 +3,7 @@
 
 
 
-A collection of my setup's dotfiles
+The most awesome collection of dotfiles on entire GitHub :)
 
 ## details
 
