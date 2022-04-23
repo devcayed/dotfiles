@@ -19,9 +19,9 @@ The most awesome collection of dotfiles on entire GitHub :)
 
 ## preview - desktop
 
-![Preview 01](.github/preview-01.png)
-![Preview 02](.github/preview-02.png)
-![Preview 03](.github/preview-03.png)
+![Preview 01](.github/preview-desktop-01.png)
+![Preview 02](.github/preview-desktop-02.png)
+![Preview 03](.github/preview-desktop-03.png)
 
 ## gnome extensions
 
