@@ -1,7 +1,8 @@
 
 # dotfiles
 
-The most awesome collection of dotfiles on entire GitHub :)
+The most awesome collection of dotfiles on entire GitHub :p
+(screenshots at the bottom!)
 
 ## details
 
