@@ -7,7 +7,8 @@ The most awesome collection of dotfiles on entire GitHub :)
 
 |                  |                                                                  |
 | :--------------- | :--------------------------------------------------------------- |
-| OS               | [EndeavourOS](https://endeavouros.com/)                          |
+| OS (Desktop)     | [EndeavourOS](https://endeavouros.com/)                          |
+| OS (Laptop)      | [Arch Linux](https://archlinux.org/)                             |
 | DE               | [GNOME](https://gnome.org/)                                      |
 | GTK Theme        | [Adawaita Dark (GNOME default)](/)                               |
 | Shell            | [Oh-My-ZSH](https://ohmyz.sh/)                                   |
@@ -16,12 +17,6 @@ The most awesome collection of dotfiles on entire GitHub :)
 | Terminal Palette | [Mountain Peek Night](https://github.com/nautilor/mountain-peek) |
 | Icons            | [Papirus Dark](https://www.gnome-look.org/p/1166289/)            |
 | Cursors          | [Material Light Cursors](https://www.gnome-look.org/p/1346778)   |
-
-## preview - desktop
-
-![Preview 01](.github/preview-desktop-01.png)
-![Preview 02](.github/preview-desktop-02.png)
-![Preview 03](.github/preview-desktop-03.png)
 
 ## gnome extensions
 
@@ -41,3 +36,14 @@ The most awesome collection of dotfiles on entire GitHub :)
 | [Unite](https://extensions.gnome.org/extension/1287/unite/)                                                    |
 | [User Themes](https://extensions.gnome.org/extension/19/user-themes/)                                          |
 | [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/)                                  |
+
+## preview - desktop
+
+![Preview 01 - Desktop](.github/preview-desktop-01.png)
+![Preview 02 - Desktop](.github/preview-desktop-02.png)
+![Preview 03 - Desktop](.github/preview-desktop-03.png)
+
+## preview - laptop
+
+![Preview 01 - Laptop](.github/preview-laptop-01.png)
+![Preview 02 - Laptop](.github/preview-laptop-02.png)
