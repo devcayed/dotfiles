@@ -1,0 +1,42 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/DEV/bamoida" value="true" />
+        <entry key="$USER_HOME$/DEV/bngrs" value="true" />
+        <entry key="$USER_HOME$/DEV/cards-against-humanity/server" value="true" />
+        <entry key="$USER_HOME$/DEV/dei-muada-oida" value="true" />
+        <entry key="$USER_HOME$/DEV/i-like-haskell" value="true" />
+        <entry key="$USER_HOME$/DEV/mongodb-backup-service" value="true" />
+        <entry key="$USER_HOME$/DEV/rust-password-checker" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/algodat-tests" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/functional-password-checker" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/05/01-binary-search-tree/01-binary-search-tree" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/05/2-breadth-first-iteration/2-breadth-first-iteration" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/06/1-flight-management/1-flight-management" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/07" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/07/3-inverted-index" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/07/4-count-unique-characters" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures/08/2-set-operations" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/04" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/05" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/06" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/07" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/08" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/09" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/10" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/midterm-02" value="true" />
+        <entry key="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology/s10" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/DEV" />
+        <option value="$USER_HOME$/awesome-uibk/02-SS22/programming-methodology" />
+        <option value="$USER_HOME$/awesome-uibk/02-SS22/algorithms-and-datastructures" />
+      </list>
+    </option>
+  </component>
+</application>

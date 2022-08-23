@@ -1,0 +1,411 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="s10" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/LeaveOutCollector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#1741#1742#0" expanded="true" />
+                <element signature="e#1806#1807#0" expanded="true" />
+                <element signature="e#1838#1839#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/util/stream/Collector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2030">
+              <caret line="317" column="26" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1655769535644" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="38" lastUsed="1658146322601" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1655838402815" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/LeaveOutCollectorTests.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/tests/LeaveOutCollectorTests.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e02/ListSetTests.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e02/ListSet.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e01/Main.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e01/generics.txt" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e03/models/ListItem.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/LeaveOutCollector.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.e03: Packing list" executorId="Run" />
+      <element setting="Application.e04: LeaveOutCollector" executorId="Run" />
+      <element setting="Application.Main" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testInitialisationWithDuplicates" executorId="Run" />
+      <element setting="JUnit.ListSetTests" executorId="Run" />
+      <element setting="JUnit.ListSetTests" executorId="Debug" />
+      <element setting="JUnit.ListSetTests.testClone (1)" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testClone" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testRemoveAll" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testSize" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testToString" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testAddAll" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testAddAll" executorId="Debug" />
+      <element setting="JUnit.ListSetTests.testAdd" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testContains" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testIsEmpty" executorId="Run" />
+      <element setting="JUnit.ListSetTests.testInitialisation" executorId="Run" />
+      <element setting="JUnit.LeaveOutCollectorTests.testLeaveOutCollector" executorId="Run" />
+      <element setting="JUnit.LeaveOutCollectorTests" executorId="Run" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ListSetTests_testRemoveAll - 2022.06.21 at 20h 36m 10s.xml">
+      <configuration name="ListSetTests.testRemoveAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testRemoveAll - 2022.06.21 at 20h 36m 57s.xml">
+      <configuration name="ListSetTests.testRemoveAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testClone - 2022.06.21 at 20h 51m 48s.xml">
+      <configuration name="ListSetTests.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testClone - 2022.06.21 at 20h 52m 45s.xml">
+      <configuration name="ListSetTests.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testClone - 2022.06.21 at 20h 52m 59s.xml">
+      <configuration name="ListSetTests.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testClone - 2022.06.21 at 20h 53m 13s.xml">
+      <configuration name="ListSetTests.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testClone_(1) - 2022.06.21 at 20h 54m 37s.xml">
+      <configuration name="ListSetTests.testClone (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests - 2022.06.21 at 20h 55m 34s.xml">
+      <configuration name="ListSetTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testInitialisationWithDuplicates - 2022.06.21 at 20h 56m 32s.xml">
+      <configuration name="ListSetTests.testInitialisationWithDuplicates" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListSetTests_testInitialisationWithDuplicates - 2022.06.21 at 21h 04m 50s.xml">
+      <configuration name="ListSetTests.testInitialisationWithDuplicates" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19849000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Pull Requests" weight="0.3297546" />
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.3297546" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32963246" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.40007657" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32963246" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32963246" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Notifications" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Build</value>
+      <value>Pull Requests</value>
+      <value>Bookmarks</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2044" y="1392" width="1182" height="845" key="#Project_Structure" timestamp="1655754606162">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2044" y="1392" width="1182" height="845" key="#Project_Structure/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655754606162" />
+    <state x="2061" y="1477" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655840183368">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2061" y="1477" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840183368" />
+    <state x="2383" y="1504" width="400" height="636" key="#com.intellij.ide.util.MemberChooser" timestamp="1655759229864">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2383" y="1504" width="400" height="636" key="#com.intellij.ide.util.MemberChooser/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655759229864" />
+    <state x="2363" y="1606" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1655840182732">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2363" y="1606" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840182732" />
+    <state x="2354" y="1573" key="FileChooserDialogImpl" timestamp="1657200412727">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2354" y="1573" key="FileChooserDialogImpl/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1657200412727" />
+    <state width="1580" height="494" key="GridCell.Tab.0.bottom" timestamp="1655840471264">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471264" />
+    <state width="1580" height="494" key="GridCell.Tab.0.center" timestamp="1655840471263">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.0.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471263" />
+    <state width="1580" height="494" key="GridCell.Tab.0.left" timestamp="1655840471263">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.0.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471263" />
+    <state width="1580" height="494" key="GridCell.Tab.0.right" timestamp="1655840471264">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.0.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471264" />
+    <state width="1580" height="494" key="GridCell.Tab.1.bottom" timestamp="1655840471264">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.1.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471264" />
+    <state width="1580" height="494" key="GridCell.Tab.1.center" timestamp="1655840471264">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.1.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471264" />
+    <state width="1580" height="494" key="GridCell.Tab.1.left" timestamp="1655840471264">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.1.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471264" />
+    <state width="1580" height="494" key="GridCell.Tab.1.right" timestamp="1655840471264">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="494" key="GridCell.Tab.1.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655840471264" />
+    <state x="2127" y="1705" width="912" height="228" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1655758501931">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2127" y="1705" width="912" height="228" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655758501931" />
+    <state x="1971" y="1454" width="970" height="735" key="new project wizard" timestamp="1657200692040">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="1971" y="1454" width="970" height="735" key="new project wizard/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1657200692040" />
+    <state x="2278" y="1560" width="610" height="517" key="refactoring.ChangeSignatureDialog" timestamp="1655756310189">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2278" y="1560" width="610" height="517" key="refactoring.ChangeSignatureDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655756310189" />
+    <state x="2251" y="1448" width="827" height="689" key="search.everywhere.popup" timestamp="1655761026909">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2251" y="1448" width="827" height="689" key="search.everywhere.popup/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655761026909" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e01/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e01/generics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e03/models/ListItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e02/ListSetTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e02/ListSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2044">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e03/models/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/tests/LeaveOutCollectorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e03/models/SimpleItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/LeaveOutCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+            <element signature="e#1838#1839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/util/stream/Collector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2030">
+          <caret line="317" column="26" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s10/e04/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

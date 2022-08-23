@@ -1,0 +1,69 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2B1pJDxc2cxS0L4YNeFYMQUJguc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CdMtkMgWOtz4HVXFsXYPdgC9bM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "whitespace\nwhitespa\nwhite\nPrettier",
+    "MarketplacePluginsSearchHistory": "Prettier\nPrettei",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "Cursor\nwhitespace",
+    "appcds.runOnSecondStart": "JBC-221.5921.27-983e387182c8b026a10e9b0bbc44f2209855f73ec94a682e780f0ed223360481",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "WS-221.5921.27",
+    "evlsprt3.221": "25",
+    "file.gist.reindex.count": "8",
+    "fileTypeChangedCounter": "2",
+    "gotit.previous.run": "JBC-221.5921.27",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1659733025189",
+    "ide.updates.whats.new.shown.for": "221",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/nico/DEV/doofus-rick",
+    "local.user.name": "nico",
+    "registry.to.advanced.settings.migration.build": "JBC-221.5921.27",
+    "tasks.pass.word.conversion.enforced": "true",
+    "thinClient.ws": "true",
+    "ts.lib.d.ts.version": "4.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/nico/DEV/doofus-rick"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Connected to josh's music-quiz-history11" project-path="$APPLICATION_CONFIG_DIR$/thinProject" last-access-time="1659129128471" />
+      <command-history-file filename="Connected to josh's music-quiz-history" project-path="$APPLICATION_CONFIG_DIR$/thinProject" last-access-time="1659128234025" />
+    </command-history-files>
+  </component>
+  <component name="TerminalUiSettingsManager">
+    <option name="cursorShape" value="UNDERLINE" />
+  </component>
+</application>

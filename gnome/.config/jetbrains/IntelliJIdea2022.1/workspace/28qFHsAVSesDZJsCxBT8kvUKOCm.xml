@@ -1,0 +1,147 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="3-inverted-index" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InvertedIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="4" lastUsed="1652107999194" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>volutpat</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/InvertedIndex.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3-inverted-index" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-inverted-index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3-inverted-index" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-inverted-index" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.3 - Inverted index" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32989228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32989228" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Notifications" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984366" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2023" y="1486" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651943220248">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2023" y="1486" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651943220248" />
+    <state x="2325" y="1615" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1651943219413">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2325" y="1615" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651943219413" />
+    <state x="2315" y="1582" key="FileChooserDialogImpl" timestamp="1652108069157">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2315" y="1582" key="FileChooserDialogImpl/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652108069157" />
+    <state width="1549" height="339" key="GridCell.Tab.0.bottom" timestamp="1651951038528">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1549" height="339" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651951038528" />
+    <state width="1549" height="339" key="GridCell.Tab.0.center" timestamp="1651951038528">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1549" height="339" key="GridCell.Tab.0.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651951038528" />
+    <state width="1549" height="339" key="GridCell.Tab.0.left" timestamp="1651951038528">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1549" height="339" key="GridCell.Tab.0.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651951038528" />
+    <state width="1549" height="339" key="GridCell.Tab.0.right" timestamp="1651951038528">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1549" height="339" key="GridCell.Tab.0.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651951038528" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/InvertedIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="ColumnSelection.html" value="1652123191737" />
+        <entry key="DBMakeDataSourceReadonly.html" value="1650905490304" />
+        <entry key="DBTableViewForCSVFiles.html" value="1651420349346" />
+        <entry key="DotEtcInLookups.html" value="1650200350896" />
+        <entry key="ExtractMethod.html" value="1655472087171" />
+        <entry key="GenerateDoxygen.html" value="1653838291804" />
+        <entry key="JumpToLastEdit.html" value="1653990254553" />
+        <entry key="RenameCssSelector.html" value="1655236000480" />
+        <entry key="SmartCommandExecution.html" value="1652536019942" />
+        <entry key="Welcome.html" value="1653333808810" />
+        <entry key="find_usages.html" value="1655558514820" />
+      </map>
+    </option>
+  </component>
+</application>

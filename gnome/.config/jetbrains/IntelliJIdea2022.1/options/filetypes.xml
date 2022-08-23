@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
+    </extensionMap>
+  </component>
+</application>

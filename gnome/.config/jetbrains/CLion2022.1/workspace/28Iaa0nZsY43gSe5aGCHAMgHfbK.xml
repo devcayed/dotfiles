@@ -1,0 +1,166 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="3-print-server" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="3" lastUsed="1650977126328" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="2" lastUsed="1650981814925" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="8" lastUsed="1650980930651" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+    </findStrings>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.c" />
+      <option value="$PROJECT_DIR$/Makefile" />
+      <option value="$PROJECT_DIR$/print.c" />
+      <option value="$PROJECT_DIR$/print_server.c" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3_print_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-print-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="3_print_server-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12171000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" sideWeight="0.50074184" weight="0.33005708" />
+      <window_info id="Bookmarks" order="0" sideWeight="0.49925816" side_tool="true" weight="0.33005708" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.330303" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.330303" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40043288" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="CMake" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.43679655" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.20323399" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+      <value>Run</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2327" y="1555" key="FileChooserDialogImpl" timestamp="1650976853701">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2327" y="1555" key="FileChooserDialogImpl/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1650976853701" />
+    <state x="2334" y="1488" width="720" height="665" key="RollbackChangesDialog" timestamp="1650911264276">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2334" y="1488" width="720" height="665" key="RollbackChangesDialog/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1650911264276" />
+    <state x="2204" y="1486" key="search.everywhere.popup" timestamp="1650982167719">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2204" y="1486" key="search.everywhere.popup/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1650982167719" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/mqueue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print_server.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

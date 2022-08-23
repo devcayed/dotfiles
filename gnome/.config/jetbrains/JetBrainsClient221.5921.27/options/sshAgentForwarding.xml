@@ -1,0 +1,5 @@
+<application>
+  <component name="ssh.agent.forwarding.settings">
+    <option name="forwardingEnabled" value="true" />
+  </component>
+</application>

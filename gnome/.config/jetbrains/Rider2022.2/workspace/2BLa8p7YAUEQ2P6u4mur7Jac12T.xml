@@ -1,0 +1,278 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="delegates" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/delegates/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1656780798899" expanded="true" signature="50:113" ph="{...}" />
+                <marker date="1656780798899" expanded="true" signature="95:111" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delegates/CompareFunction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delegates/Strength.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1656779700212" expanded="true" signature="43:92" ph="{...}" />
+                <marker date="1656779700212" expanded="true" signature="125:400" ph="{...}" />
+                <marker date="1656779700212" expanded="true" signature="190:398" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delegates/StringSimilarity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1656770172714" expanded="true" signature="59:956" ph="{...}" />
+                <marker date="1656770172714" expanded="true" signature="303:594" ph="{...}" />
+                <marker date="1656770172714" expanded="true" signature="799:953" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="13" lastUsed="1656771309802" />
+    </fileType>
+    <fileType name="Csproj">
+      <summary usageCount="1" lastUsed="1656771300857" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/delegates/StringComparer.cs" />
+      <option value="$PROJECT_DIR$/delegates/StringSimilarity.cs" />
+      <option value="$PROJECT_DIR$/delegates/Strengths.cs" />
+      <option value="$PROJECT_DIR$/delegates/Strength.cs" />
+      <option value="$PROJECT_DIR$/delegates/CompareFunction.cs" />
+      <option value="$PROJECT_DIR$/delegates/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.delegates/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="delegates" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="delegates" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="delegates" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="delegates" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="delegates" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Strength.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.delegates" executorId="Run" />
+    </history>
+  </component>
+  <component name="RunToolbarSettings">
+    <option name="slotOrder">
+      <option value="1be4ad96-22b7-440c-b8ce-c4b993ed82ae" />
+    </option>
+    <slots>
+      <entry key="1be4ad96-22b7-440c-b8ce-c4b993ed82ae" value=".NET Project.delegates" />
+    </slots>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16474000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.3298939" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299701" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3299701" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="5" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="NuGet" order="10" />
+      <window_info anchor="bottom" id="Endpoints" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.3299701" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="14" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.2502948" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="IL Viewer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Find</value>
+      <value>Bookmarks</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2202" y="1499" width="751" height="633" key="#Web_Browsers_and_Preview" timestamp="1656770678345">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2202" y="1499" width="751" height="633" key="#Web_Browsers_and_Preview/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656770678345" />
+    <state x="1975" y="1474" width="1215" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656776765345">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="1975" y="1474" width="1215" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656776765345" />
+    <state x="2268" y="1570" key="FileChooserDialogImpl" timestamp="1656781191164">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2268" y="1570" key="FileChooserDialogImpl/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656781191164" />
+    <state width="1646" height="413" key="GridCell.Tab.0.bottom" timestamp="1656781192327">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="413" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656781192327" />
+    <state width="1646" height="413" key="GridCell.Tab.0.center" timestamp="1656781192327">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="413" key="GridCell.Tab.0.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656781192327" />
+    <state width="1646" height="413" key="GridCell.Tab.0.left" timestamp="1656781192327">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="413" key="GridCell.Tab.0.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656781192327" />
+    <state width="1646" height="413" key="GridCell.Tab.0.right" timestamp="1656781192327">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="413" key="GridCell.Tab.0.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656781192327" />
+    <state width="640" height="264" key="ShowBookmarks" timestamp="1656690065202">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="640" height="264" key="ShowBookmarks/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656690065202" />
+    <state x="2083" y="1561" width="672" height="688" key="run.anything.popup" timestamp="1656780066978">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2083" y="1561" width="672" height="688" key="run.anything.popup/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656780066978" />
+    <state x="2165" y="1437" width="847" height="689" key="search.everywhere.popup" timestamp="1656691618236">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2165" y="1437" width="847" height="689" key="search.everywhere.popup/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1656691618236" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/delegates/delegates.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delegates/StringSimilarity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1656770172714" expanded="true" signature="59:956" ph="{...}" />
+            <marker date="1656770172714" expanded="true" signature="303:594" ph="{...}" />
+            <marker date="1656770172714" expanded="true" signature="799:953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delegates/CompareFunction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delegates/Strength.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1656779700212" expanded="true" signature="43:92" ph="{...}" />
+            <marker date="1656779700212" expanded="true" signature="125:400" ph="{...}" />
+            <marker date="1656779700212" expanded="true" signature="190:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delegates/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1656780798899" expanded="true" signature="50:113" ph="{...}" />
+            <marker date="1656780798899" expanded="true" signature="95:111" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

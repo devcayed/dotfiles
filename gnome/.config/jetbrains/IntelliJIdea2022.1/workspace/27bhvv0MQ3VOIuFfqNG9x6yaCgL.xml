@@ -1,0 +1,236 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rust-password-checker" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/password_checker.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/password_strength.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/user.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Rust">
+      <summary usageCount="17" lastUsed="1649784202929" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="5" lastUsed="1649782955493" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/password_strength.rs" />
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/user.rs" />
+      <option value="$PROJECT_DIR$/src/password_checker.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rust-password-checker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-password-checker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-password-checker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-password-checker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="rust-password-checker-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9764000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Bookmarks" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Space Code Reviews" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33015993" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33015993" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.33015993" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="1" visible="true" weight="0.21056825" />
+      <window_info anchor="right" id="Cargo" order="2" weight="0.3302189" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Terminal</value>
+      <value>Cargo</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2485" y="1535" width="374" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1649607774946">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2485" y="1535" width="374" height="568" key="#com.intellij.ide.util.MemberChooser/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649607774946" />
+    <state x="2313" y="1574" key="FileChooserDialogImpl" timestamp="1649789897712">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2313" y="1574" key="FileChooserDialogImpl/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649789897712" />
+    <state width="1833" height="405" key="GridCell.Tab.0.bottom" timestamp="1649789903262">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1833" height="405" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649789903262" />
+    <state width="1833" height="405" key="GridCell.Tab.0.center" timestamp="1649789903262">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1833" height="405" key="GridCell.Tab.0.center/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649789903262" />
+    <state width="1833" height="405" key="GridCell.Tab.0.left" timestamp="1649789903261">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1833" height="405" key="GridCell.Tab.0.left/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649789903261" />
+    <state width="1833" height="405" key="GridCell.Tab.0.right" timestamp="1649789903262">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1833" height="405" key="GridCell.Tab.0.right/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649789903262" />
+    <state x="2069" y="1448" width="1022" height="736" key="SettingsEditor" timestamp="1649782977348">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2069" y="1448" width="1022" height="736" key="SettingsEditor/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649782977348" />
+    <state x="2163" y="1542" width="842" height="554" key="new project wizard" timestamp="1649669753303">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2163" y="1542" width="842" height="554" key="new project wizard/0.1080.5120.1440/2211.0.1920.1080@0.1080.5120.1440" timestamp="1649669753303" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/password_strength.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/password_checker.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

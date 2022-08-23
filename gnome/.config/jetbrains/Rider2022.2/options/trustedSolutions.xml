@@ -1,0 +1,17 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/DEV/Test/.idea/.idea.Test" />
+        <option value="$USER_HOME$/DEV/advent-of-code-15/advent-of-code-15/.idea/.idea.advent-of-code-15" />
+        <option value="$USER_HOME$/DEV/delegates/delegates/.idea/.idea.delegates" />
+        <option value="$USER_HOME$/DEV/mongodb-test/test/.idea/.idea.test" />
+        <option value="$USER_HOME$/DEV/mr-nimbus/server/.idea/.idea.server" />
+        <option value="$USER_HOME$/DEV/nico-likes-dotnet/nico-likes-dotnet/.idea/.idea.nico-likes-dotnet" />
+        <option value="$USER_HOME$/DEV/nico-likes-fsharp/nico-likes-fsharp/.idea/.idea.nico-likes-fsharp" />
+        <option value="$USER_HOME$/RiderProjects/LevenshteinDistance/.idea/.idea.LevenshteinDistance" />
+        <option value="$USER_HOME$/RiderProjects/Test/.idea/.idea.Test" />
+      </set>
+    </option>
+  </component>
+</application>

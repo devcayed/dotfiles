@@ -1,0 +1,207 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="4-count-unique-characters" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UniqueCharacterCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="60" column="76" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#3423#3424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="6" lastUsed="1652028709733" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>equals</find>
+      <find>sort</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/UniqueCharacterCount.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.4. Unique Characters" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11797000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Bookmarks" order="1" side_tool="true" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Dependency Checker" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32961124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32989228" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Notifications" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2006" y="1402" width="1182" height="845" key="#Project_Structure" timestamp="1651935504313">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2006" y="1402" width="1182" height="845" key="#Project_Structure/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651935504313" />
+    <state x="2023" y="1486" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651936493618">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2023" y="1486" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651936493618" />
+    <state x="2325" y="1615" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1651936492792">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2325" y="1615" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651936492792" />
+    <state x="2118" y="1606" key="FileChooserDialogImpl" timestamp="1652029292313">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2118" y="1606" key="FileChooserDialogImpl/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652029292313" />
+    <state width="1646" height="370" key="GridCell.Tab.0.bottom" timestamp="1652030274900">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="370" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652030274900" />
+    <state width="1646" height="370" key="GridCell.Tab.0.center" timestamp="1652030274900">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="370" key="GridCell.Tab.0.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652030274900" />
+    <state width="1646" height="370" key="GridCell.Tab.0.left" timestamp="1652030274900">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="370" key="GridCell.Tab.0.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652030274900" />
+    <state width="1646" height="370" key="GridCell.Tab.0.right" timestamp="1652030274900">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1646" height="370" key="GridCell.Tab.0.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652030274900" />
+    <state x="1957" y="1402" key="SettingsEditor" timestamp="1651941962622">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="1957" y="1402" key="SettingsEditor/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651941962622" />
+    <state width="640" height="264" key="ShowBookmarks" timestamp="1651946160275">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="640" height="264" key="ShowBookmarks/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651946160275" />
+    <state x="2258" y="1739" width="591" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651941947331">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2258" y="1739" width="591" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651941947331" />
+    <state x="2149" y="1524" width="973" height="630" key="new project wizard" timestamp="1651936123257">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2149" y="1524" width="973" height="630" key="new project wizard/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1651936123257" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="1240" selection-start-line="1240" selection-end-line="1240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UniqueCharacterCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="60" column="76" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#3423#3424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>4-distinct-characters</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

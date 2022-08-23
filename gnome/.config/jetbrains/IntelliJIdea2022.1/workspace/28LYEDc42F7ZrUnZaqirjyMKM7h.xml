@@ -1,0 +1,169 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="2-breadth-first-iteration" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BreadthFirstIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="896">
+              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#1350#1351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1650997272793" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/BreadthFirstIterator.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2-breadth-first-iteration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2-breadth-first-iteration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2-breadth-first-iteration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2-breadth-first-iteration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3808000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32989228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32989228" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Notifications" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.2503125" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1987" y="1442" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651000546271">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="1987" y="1442" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1651000546271" />
+    <state x="2289" y="1571" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1651000544489">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2289" y="1571" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1651000544489" />
+    <state width="1550" height="339" key="GridCell.Tab.0.bottom" timestamp="1651003969022">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1550" height="339" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1651003969022" />
+    <state width="1550" height="339" key="GridCell.Tab.0.center" timestamp="1651003969021">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1550" height="339" key="GridCell.Tab.0.center/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1651003969021" />
+    <state width="1550" height="339" key="GridCell.Tab.0.left" timestamp="1651003969021">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1550" height="339" key="GridCell.Tab.0.left/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1651003969021" />
+    <state width="1550" height="339" key="GridCell.Tab.0.right" timestamp="1651003969022">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1550" height="339" key="GridCell.Tab.0.right/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1651003969022" />
+    <state x="2025" y="1415" width="977" height="737" key="SettingsEditor" timestamp="1650998375318">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2025" y="1415" width="977" height="737" key="SettingsEditor/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1650998375318" />
+    <state x="2218" y="1695" width="591" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650997385814">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2218" y="1695" width="591" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.5120.1440/2199.0.1920.1080@0.1080.5120.1440" timestamp="1650997385814" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreadthFirstIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

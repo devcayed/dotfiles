@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>

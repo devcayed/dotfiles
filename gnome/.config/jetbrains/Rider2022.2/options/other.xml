@@ -1,0 +1,115 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2ALUDGh4fDEFtMkUwFAhuyIuqoX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AQiBmUP1PZghsOF1uh2plVi7Mi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AcPjJpwZkOSVbAmaXPhE1SQXQb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Af0M0N3ztNv9lxl5aOu6sWRkdb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AlFiIrcMxg38qewZxthcPH3BV5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AlFst9z8whEbzP4si4i5HPqUvu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BLa8p7YAUEQ2P6u4mur7Jac12T">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DJZpx6SmSbo6VTRc2DCXE7ScAp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Debug.Allow.Typing": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Started.IDE.Build": "RD-222.3345.139",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "Braces\nwhitespace",
+    "Tutorials.In.Recent.Projects.Disabled": "true",
+    "appcds.runOnSecondStart": "RD-222.3345.139-07d4bd50c30414559e6f166307a7ec85abea07b1e6ad59d0d33f9aebcad31707",
+    "bundled.plugins.list.saved.version": "RD-222.3345.139",
+    "com.intellij.ide.navigationToolbar.experimental.showSearchEverywhereHotKeyTip": "false",
+    "evlsprt3.221": "23",
+    "evlsprt3.222": "26",
+    "experimentalFeature.editor.reader.mode": "false",
+    "file.gist.reindex.count": "69",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "18.0",
+    "got.it.tooltip.rider.solution.configurations": "1",
+    "ide.updates.whats.new.shown.for": "221",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "js.insert.parentheses.on.completion": "false",
+    "last_open_solution_path": "/home/nico/DEV/mr-nimbus/server",
+    "last_selected_template": "Console Application|.NET / .NET Core",
+    "last_selected_template_parameters": "Type=Web API;Language=F#;DockerSupport=Disabled;Auth=None;PathToUnityEngine=;Framework=net6.0;",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "RD-222.3345.139",
+    "settings.code.style.selected.tab.C#": "Braces Layout",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/nico/DEV/mr-nimbus/server",
+      "/home/nico/DEV/Test"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="test-history" project-path="$USER_HOME$/DEV/mongodb-test/test" last-access-time="1655387804702" />
+      <command-history-file filename="server-history" project-path="$USER_HOME$/DEV/mr-nimbus/server" last-access-time="1655380120625" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

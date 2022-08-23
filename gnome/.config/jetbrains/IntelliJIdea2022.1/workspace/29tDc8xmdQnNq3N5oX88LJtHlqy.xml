@@ -1,0 +1,550 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="09" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/ay.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/qu.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/LevenshteinDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Restaurant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/tests/LevenshteinTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/CSVWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1680">
+              <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/util/FileWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSV/TSV">
+      <summary usageCount="26" lastUsed="1655565571905" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1653929958741" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="88" lastUsed="1655753864268" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="5" lastUsed="1655753863947" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/CSVParser.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/restaurant.csv" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/tests/LevenshteinTests.java" />
+      <option value="$PROJECT_DIR$/src/.gitignore" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/util/CSVWrapper.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Tuple.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/Main.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/NewPlayer.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/Game.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/Player.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/original/Player.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/original/Game.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/refactored/Choice.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/refactored/RefactoredPlayer.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/refactored/RefactoredGame.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/CSVWrapper.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/util/FileWrapper.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Triple.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Restaurant.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/LevenshteinDistance.java" />
+      <option value="$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e01" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e01" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e01" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e02" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s09" type="462c0819:PsiDirectoryNode" />
+              <item name="e03" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.LevenshteinTests" executorId="Run" />
+      <element setting="Application.e01: Duplicate Detection" executorId="Run" />
+      <element setting="Application.e02: Language detection" executorId="Run" />
+      <element setting="Application.e03: Refactoring" executorId="Run" />
+      <element setting="JUnit.LevenshteinTests.testLevenshteinDistance" executorId="Run" />
+      <element setting="Application.e01: Duplicate Detection" executorId="Debug" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LevenshteinTests_testLevenshteinDistance - 2022.05.30 at 18h 45m 10s.xml">
+      <configuration name="LevenshteinTests.testLevenshteinDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LevenshteinTests_testLevenshteinDistance - 2022.05.30 at 18h 52m 53s.xml">
+      <configuration name="LevenshteinTests.testLevenshteinDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LevenshteinTests - 2022.06.18 at 17h 30m 47s.xml">
+      <configuration name="LevenshteinTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32963246" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32963246" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.3997696" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3298771" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3298771" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Notifications" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" visible="true" weight="0.22116566" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>Build</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1802" y="1469" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653999650224">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="1802" y="1469" width="1139" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653999650224" />
+    <state x="2323" y="1602" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1653999648611">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2323" y="1602" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653999648611" />
+    <state x="2284" y="1636" width="516" height="358" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1654000119269">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2284" y="1636" width="516" height="358" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1654000119269" />
+    <state x="2189" y="1564" key="FileChooserDialogImpl" timestamp="1655753892853">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2189" y="1564" key="FileChooserDialogImpl/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655753892853" />
+    <state width="1580" height="402" key="GridCell.Tab.0.bottom" timestamp="1655566807652">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="402" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655566807652" />
+    <state width="1580" height="402" key="GridCell.Tab.0.center" timestamp="1655566807652">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="402" key="GridCell.Tab.0.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655566807652" />
+    <state width="1580" height="402" key="GridCell.Tab.0.left" timestamp="1655566807651">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="402" key="GridCell.Tab.0.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655566807651" />
+    <state width="1580" height="402" key="GridCell.Tab.0.right" timestamp="1655566807652">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1580" height="402" key="GridCell.Tab.0.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655566807652" />
+    <state width="1677" height="492" key="GridCell.Tab.1.bottom" timestamp="1653936101631">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1677" height="492" key="GridCell.Tab.1.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653936101631" />
+    <state width="1677" height="492" key="GridCell.Tab.1.center" timestamp="1653936101631">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1677" height="492" key="GridCell.Tab.1.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653936101631" />
+    <state width="1677" height="492" key="GridCell.Tab.1.left" timestamp="1653936101631">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1677" height="492" key="GridCell.Tab.1.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653936101631" />
+    <state width="1677" height="492" key="GridCell.Tab.1.right" timestamp="1653936101631">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1677" height="492" key="GridCell.Tab.1.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653936101631" />
+    <state x="2086" y="1701" width="912" height="228" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1653928544755">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2086" y="1701" width="912" height="228" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1653928544755" />
+    <state x="2121" y="1506" key="new project wizard" timestamp="1655565542481">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2121" y="1506" key="new project wizard/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655565542481" />
+    <state x="2184" y="1439" width="827" height="689" key="search.everywhere.popup" timestamp="1655291962095">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2184" y="1439" width="827" height="689" key="search.everywhere.popup/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1655291962095" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Tuple.java" />
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/restaurant.csv">
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+              <header>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </header>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="145" column="65" selection-start-line="145" selection-start-column="65" selection-end-line="145" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/refactored/RefactoredPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/refactored/Choice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/refactored/RefactoredGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/original/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e03/original/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/Result.csv">
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimilarityScores.csv" />
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Triple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/ay.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/qu.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/LevenshteinDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/models/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/tests/LevenshteinTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e01/util/CSVWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/uibk/pm/g06/csaz7944/s09/e02/util/FileWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

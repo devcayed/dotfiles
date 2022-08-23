@@ -1,0 +1,185 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="1-pthreads-mutex" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="1" lastUsed="1652123187714" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="1" lastUsed="1652124337453" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="2" lastUsed="1652124537181" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/atomic_main.c" />
+      <option value="$PROJECT_DIR$/mutex_main.c" />
+      <option value="$PROJECT_DIR$/Makefile" />
+      <option value="$PROJECT_DIR$/main.c" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1_pthreads_mutex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-pthreads-mutex" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.1_pthreads_mutex" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5519000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.33005708" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.330303" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.330303" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.330303" />
+      <window_info anchor="bottom" id="CMake" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.25015852" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25015852" />
+      <window_info anchor="right" id="make" order="1" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Project</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2035" y="1458" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652124421749">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2035" y="1458" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652124421749" />
+    <state x="2294" y="1544" width="524" height="512" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652126573709">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2294" y="1544" width="524" height="512" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652126573709" />
+    <state x="2174" y="1554" key="FileChooserDialogImpl" timestamp="1652128707276">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2174" y="1554" key="FileChooserDialogImpl/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652128707276" />
+    <state width="1527" height="353" key="GridCell.Tab.0.bottom" timestamp="1652128712120">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1527" height="353" key="GridCell.Tab.0.bottom/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652128712120" />
+    <state width="1527" height="353" key="GridCell.Tab.0.center" timestamp="1652128712120">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1527" height="353" key="GridCell.Tab.0.center/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652128712120" />
+    <state width="1527" height="353" key="GridCell.Tab.0.left" timestamp="1652128712120">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1527" height="353" key="GridCell.Tab.0.left/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652128712120" />
+    <state width="1527" height="353" key="GridCell.Tab.0.right" timestamp="1652128712120">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state width="1527" height="353" key="GridCell.Tab.0.right/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652128712120" />
+    <state x="2224" y="1468" width="672" height="689" key="search.everywhere.popup" timestamp="1652125522454">
+      <screen x="0" y="1080" width="5120" height="1440" />
+    </state>
+    <state x="2224" y="1468" width="672" height="689" key="search.everywhere.popup/0.1080.5120.1440/2192.0.1920.1080@0.1080.5120.1440" timestamp="1652125522454" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atomic_main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

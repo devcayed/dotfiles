@@ -1,0 +1,17 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/DEV/Test" value="true" />
+        <entry key="$USER_HOME$/DEV/advent-of-code-15/advent-of-code-15" value="true" />
+        <entry key="$USER_HOME$/DEV/delegates/delegates" value="true" />
+        <entry key="$USER_HOME$/DEV/mongodb-test/test" value="true" />
+        <entry key="$USER_HOME$/DEV/mr-nimbus/server" value="true" />
+        <entry key="$USER_HOME$/DEV/nico-likes-dotnet/nico-likes-dotnet" value="true" />
+        <entry key="$USER_HOME$/DEV/nico-likes-fsharp/nico-likes-fsharp" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/LevenshteinDistance" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/Test" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

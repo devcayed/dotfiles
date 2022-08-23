@@ -1,0 +1,14 @@
+﻿{
+  "update": {
+    "FUS": 637968026390000000
+  },
+  "options": {
+    "FUS": {
+      "groupDataThreshold": "10000",
+      "dataThreshold": "15000",
+      "groupAlertThreshold": "6000",
+      "id_salt": "",
+      "id_salt_revision": "0"
+    }
+  }
+}

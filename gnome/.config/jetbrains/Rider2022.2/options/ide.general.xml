@@ -1,0 +1,9 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="reopenLastProject" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="rdclient.asyncActions" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
+  </component>
+</application>
