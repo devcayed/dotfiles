@@ -13,10 +13,10 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 | DE                | [GNOME](https://gnome.org/)                                                                    |
 | GTK Theme         | [Adawaita Dark (GNOME default)](/)                                                             |
 | Shell             | [Oh-My-ZSH](https://ohmyz.sh/)                                                                 |
-| Shell Theme       | [Powerlevel10k (Agnoster Theme)](https://github.com/romkatv/powerlevel10k)                                      |
+| Shell Theme       | [Powerlevel10k](https://github.com/romkatv/powerlevel10k)                                      |
 | Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)                                                      |
 | Terminal Palette  | [Django](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/Django.png) |
-| Icons             | [Papirus Dark](https://www.gnome-look.org/p/1166289/)                                          |
+| Icons             | [Adwaita (GNOME default)](/)                                          |
 | Cursors           | [Material Light Cursors](https://www.gnome-look.org/p/1346778)                                 |
 
 ## gnome extensions
@@ -36,6 +36,7 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 | [Unite](https://extensions.gnome.org/extension/1287/unite/)                                                    |
 | [User Themes](https://extensions.gnome.org/extension/19/user-themes/)                                          |
 | [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/)                                  |
+| [Rounded Windows Corner](https://extensions.gnome.org/extension/5237/rounded-window-corners/) |
 
 ## preview - desktop
 
