@@ -1,0 +1,7 @@
+:set +m
+:set prompt "λ> "
+:set prompt-cont "    | "
+
+-- Language Extensions
+:seti -XLambdaCase
+:seti -XTypeApplications
