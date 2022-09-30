@@ -5,15 +5,14 @@ line-number = "relative"
 mouse = false
 auto-completion = true
 rulers = [
-    120
+    120,
 ]
 color-modes = true
 
-
 [editor.cursor-shape]
 insert = "underline"
-normal = "bar"
-select = "bar"
+normal = "underline"
+select = "underline"
 
 [editor.file-picker]
 hidden = false
@@ -21,7 +20,7 @@ hidden = false
 [editor.statusline]
 left = ["mode", "spinner"]
 center = ["file-name"]
-right = ["diagnostics", "position", "file-encoding", "file-line-ending", "file-type"]
+right = ["diagnostics", "position", "position-percentage", "file-encoding", "file-line-ending", "file-type"]
 separator = " | "
 
 [editor.whitespace.render]
@@ -32,4 +31,9 @@ newline = "none"
 [editor.whitespace.characters]
 space = "·"
 tab = "→"
+
+[editor.lsp]
+display-messages = true
+auto-signature-help = true
+display-signature-help-docs = true
 
