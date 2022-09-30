@@ -32,7 +32,9 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 | [Rounded Windows Corner](https://extensions.gnome.org/extension/5237/rounded-window-corners/)                  |
 | [Screenshot Directory](https://extensions.gnome.org/extension/4031/screenshot-directory/)                      |
 | [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) |
+| [Tray Icons: Reloaded](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/)                       |
 | [Unite](https://extensions.gnome.org/extension/1287/unite/)                                                    |
+| [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/)                                      |
 | [User Themes](https://extensions.gnome.org/extension/19/user-themes/)                                          |
 | [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/)                                  |
 
