@@ -1,0 +1,6 @@
+[[language]]
+name = "haskell"
+auto-format = false
+indent = { tab-width = 4, unit = "    " }
+comment-token = "--"
+
