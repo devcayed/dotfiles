@@ -1,8 +1,8 @@
 
 # dotfiles
 
-The most awesome collection of `~/dotfiles` that can be found on entire GitHub! :p
-(preview screenshots of both desktop & laptop at the bottom!)
+The most awesome collection of `~/dotfiles` that can be found on entire GitHub! :p<br>
+(preview screenshots of both desktop & laptop as well as my own terminal palette at the bottom!)
 
 ## details
 
@@ -14,7 +14,7 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 | Shell             | [Oh-My-ZSH](https://ohmyz.sh/)                                                                 |
 | Shell Theme       | [Powerlevel10k](https://github.com/romkatv/powerlevel10k)                                      |
 | Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)                                                      |
-| Terminal Palette  | [Django](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/Django.png) |
+| Terminal Palette  | [my own theme - idk what to call it yet](.github/palette.png) |
 | Icons             | [Adwaita (GNOME default)](/)                                                                   |
 | Cursors           | [Material Light Cursors](https://www.gnome-look.org/p/1346778)                                 |
 
@@ -48,3 +48,7 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 
 ![Preview 01 - Laptop](.github/preview-laptop-01.png)
 ![Preview 02 - Laptop](.github/preview-laptop-02.png)
+
+## My own terminal palette
+
+![Colour palette](.github/palette.png)
