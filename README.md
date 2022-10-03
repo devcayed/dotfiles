@@ -10,7 +10,7 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 | :---------------- | :--------------------------------------------------------------------------------------------- |
 | OS                | [EndeavourOS](https://endeavouros.com/)                                                        |
 | DE                | [GNOME](https://gnome.org/)                                                                    |
-| GTK Theme         | [Adawaita Dark (GNOME default)](/)                                                             |
+| GTK Theme         | [Adwaita Dark (GNOME default)](/)                                                             |
 | Shell             | [Oh-My-ZSH](https://ohmyz.sh/)                                                                 |
 | Shell Theme       | [Powerlevel10k](https://github.com/romkatv/powerlevel10k)                                      |
 | Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)                                                      |
