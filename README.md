@@ -48,6 +48,7 @@ The most awesome collection of `~/dotfiles` that can be found on entire GitHub! 
 
 ![Preview 01 - Laptop](.github/preview-laptop-01.png)
 ![Preview 02 - Laptop](.github/preview-laptop-02.png)
+![Preview 03 - Laptop](.github/preview-laptop-03.png)
 
 ## My own terminal palette
 
