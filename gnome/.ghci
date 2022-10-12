@@ -5,3 +5,4 @@
 -- Language Extensions
 :seti -XLambdaCase
 :seti -XTypeApplications
+:set editor helix
