@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <PostgresCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="5" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="2" />
+    <option name="SUBQUERY_CLOSING" value="2" />
+  </PostgresCodeStyleSettings>
+</code_scheme>
